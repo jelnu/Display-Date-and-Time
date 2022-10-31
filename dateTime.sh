@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "BY Mohammed "
 echo "Current Date and Time, please wait..."
 now="$(date)"
 printf "Current date and time %s\n" "$now"
